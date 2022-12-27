@@ -1,2 +1,2 @@
 # config-env
-useful config files
+useful config files (vscode, zsh)

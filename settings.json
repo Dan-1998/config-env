@@ -1,0 +1,29 @@
+{
+    "C_Cpp.default.intelliSenseMode": "linux-gcc-x64",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "'Victor Mono', 'monospace', Victor Mono Oblique",
+    "editor.guides.bracketPairs": true,
+    "editor.quickSuggestions": {
+		"other": "on",
+		"comments": "on",
+		"strings": "on"
+	},
+    "editor.rulers": [79],
+    "files.autoSave": "afterDelay",
+	"files.insertFinalNewline": true,
+    "telemetry.telemetryLevel": "off",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 15,
+    "theme-by-language.themes": {
+        "*": "Default Dark+",
+        "c": "Visual Studio Dark",
+        "cpp": "Visual Studio Dark - C++",
+        "jsonc": "Shades of Purple (Super Dark)",
+        "python": "Darcula Pycharm with Dark GUI",
+        "rust": "Night Owl"
+    },
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "material-icon-theme"
+}
