@@ -42,6 +42,6 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 curl -sSL https://get.haskellstack.org/ | sh
 export PATH="$HOME/.local/bin:$PATH" 
 
-apt install xserver-xorg-input-synaptics-hwe-18.04
-echo export MOZ_USE_XINPUT2=1 | sudo tee /etc/profile.d/use-xinput2.sh
-
+#apt install xserver-xorg-input-synaptics-hwe-18.04
+#echo export MOZ_USE_XINPUT2=1 | sudo tee /etc/profile.d/use-xinput2.sh
+sudo apt install xserver-xorg-input-evdev
